@@ -15,3 +15,9 @@ Run with `./gnip --network=somenetwork`
 `--network` The network you want to fetch.
 
 These match to the networks in you `config/config.exs` file. See `config/sample.exs` for config layout.
+
+## TODO
+
+* Write tests
+* Get rid of `def start`
+* Error checking
